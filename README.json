@@ -1,38 +1,7 @@
 {
-  "items": [
-    {
-      "description": "",
-      "items": [],
-      "title": "Family project"
-    },
-    {
-      "description": "Attributes",
-      "items": [],
-      "title": "Weapons"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "All"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "iOS"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Android"
-    },
-    {
-      "description": "WHW's open-source project and made it with ❤️ if you want contribute this project, please see CONTRIBUTING.md and Pull-Request with cool your contents.\n",
-      "items": [],
-      "title": "Thanks to (Contributor)"
-    }
-  ],
+  "items": [],
   "metadata": {
-    "last_updated": "2026-08-18T10:00:34.184Z",
+    "last_updated": "2026-08-19T10:01:04.753Z",
     "original_repository": "hahwul/MobileHackersWeapons",
     "original_repository_sha": "10da82baf9629e2acc14697898d5db0794bb08c5",
     "enhanced_repository": "enhansome/enhansome-MobileHackersWeapons",
