@@ -1,7 +1,920 @@
 {
-  "items": [],
+  "items": [
+    {
+      "description": "Attributes",
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Analysis",
+              "description": "flipper A desktop debugging platform for mobile developers.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 129283183,
+                "language": "TypeScript",
+                "last_commit": "2025-09-26T15:48:25Z",
+                "owner": "facebook",
+                "repo": "flipper",
+                "stars": 13455
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Analysis",
+              "description": "RMS-Runtime-Mobile-Security Runtime Mobile Security (RMS) 📱🔥 - is a powerful web interface that helps you to manipulate Android and iOS Apps at Runtime",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 250552704,
+                "language": "JavaScript",
+                "last_commit": "2026-08-03T21:28:34Z",
+                "owner": "m0bilesecurity",
+                "repo": "RMS-Runtime-Mobile-Security",
+                "stars": 3071
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Analysis",
+              "description": "scrounger Mobile application testing toolkit",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 134873535,
+                "language": "Python",
+                "last_commit": "2018-11-08T15:59:22Z",
+                "owner": "nettitude",
+                "repo": "scrounger",
+                "stars": 248
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Pentest",
+              "description": "metasploit-framework Metasploit Framework",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 2293158,
+                "language": "Ruby",
+                "last_commit": "2026-08-24T13:11:53Z",
+                "owner": "rapid7",
+                "repo": "metasploit-framework",
+                "stars": 38859
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Proxy",
+              "description": "zaproxy The OWASP ZAP core project",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 36817565,
+                "language": "Java",
+                "last_commit": "2026-08-21T13:16:22Z",
+                "owner": "zaproxy",
+                "repo": "zaproxy",
+                "stars": 15675
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Proxy",
+              "description": "proxify Swiss Army knife Proxy tool for HTTP/HTTPS traffic capture, manipulation, and replay on the go.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 316539944,
+                "language": "Go",
+                "last_commit": "2026-08-10T09:04:29Z",
+                "owner": "projectdiscovery",
+                "repo": "proxify",
+                "stars": 3063
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Proxy",
+              "description": "hetty Hetty is an HTTP toolkit for security research.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 222258954,
+                "language": "Go",
+                "last_commit": "2026-07-21T20:10:42Z",
+                "owner": "dstotijn",
+                "repo": "hetty",
+                "stars": 12004
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Proxy",
+              "description": "httptoolkit HTTP Toolkit is a beautiful & open-source tool for debugging, testing and building with HTTP(S) on Windows, Linux & Mac",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 159495816,
+                "language": null,
+                "last_commit": "2026-02-04T10:36:05Z",
+                "owner": "httptoolkit",
+                "repo": "httptoolkit",
+                "stars": 3607
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "RE",
+              "description": "frida-tools Frida CLI tools",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 140466708,
+                "language": "Python",
+                "last_commit": "2026-08-18T13:32:39Z",
+                "owner": "frida",
+                "repo": "frida-tools",
+                "stars": 523
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "RE",
+              "description": "fridump A universal memory dumper using Frida",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 58191695,
+                "language": "Python",
+                "last_commit": "2024-08-07T13:03:21Z",
+                "owner": "Nightbringer21",
+                "repo": "fridump",
+                "stars": 858
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "RE",
+              "description": "frida Clone this repo to build Frida",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 9405122,
+                "language": "Meson",
+                "last_commit": "2026-08-18T13:32:43Z",
+                "owner": "frida",
+                "repo": "frida",
+                "stars": 21717
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "RE",
+              "description": "ghidra Ghidra is a software reverse engineering (SRE) framework",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 173228436,
+                "language": "Java",
+                "last_commit": "2026-08-24T08:41:59Z",
+                "owner": "NationalSecurityAgency",
+                "repo": "ghidra",
+                "stars": 72739
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "RE",
+              "description": "diff-gui GUI for Frida -Scripts",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 62171810,
+                "language": "JavaScript",
+                "last_commit": "2016-11-03T11:23:25Z",
+                "owner": "antojoseph",
+                "repo": "diff-gui",
+                "stars": 182
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Scanner",
+              "description": "StaCoAn StaCoAn is a crossplatform tool which aids developers, bugbounty hunters and ethical hackers performing static code analysis on mobile applications.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 119727944,
+                "language": "JavaScript",
+                "last_commit": "2021-04-27T07:05:51Z",
+                "owner": "vincentcox",
+                "repo": "StaCoAn",
+                "stars": 868
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Scanner",
+              "description": "Mobile-Security-Framework-MobSF Mobile Security Framework (MobSF) is an automated, all-in-one mobile application (Android/iOS/Windows) pen-testing, malware analysis and security assessment framework capable of performing static and dynamic analysis.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 30102273,
+                "language": "JavaScript",
+                "last_commit": "2026-08-21T22:30:56Z",
+                "owner": "MobSF",
+                "repo": "Mobile-Security-Framework-MobSF",
+                "stars": 21631
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Utils",
+              "description": "watchman Watches files and records, or triggers actions, when they change.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 6930489,
+                "language": "C++",
+                "last_commit": "2026-08-23T16:36:38Z",
+                "owner": "facebook",
+                "repo": "watchman",
+                "stars": 13694
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "frida-scripts",
+              "description": "frida-scripts A collection of my Frida.re instrumentation scripts to facilitate reverse engineering of mobile apps.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 101912162,
+                "language": "JavaScript",
+                "last_commit": "2026-08-02T21:39:51Z",
+                "owner": "0xdea",
+                "repo": "frida-scripts",
+                "stars": 1653
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "frida-gadget",
+              "description": "frida-gadget frida-gadget is a tool that can be used to patch APKs in order to utilize the Frida gadget.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 196915236,
+                "language": "Python",
+                "last_commit": "2026-08-16T02:21:11Z",
+                "owner": "ksg97031",
+                "repo": "frida-gadget",
+                "stars": 449
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "All"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Analysis",
+              "description": "needle The iOS Security Testing Framework",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 64016453,
+                "language": "Python",
+                "last_commit": "2020-10-25T16:17:16Z",
+                "owner": "ReversecLabs",
+                "repo": "needle",
+                "stars": 1401
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Analysis",
+              "description": "iblessing iblessing is an iOS security exploiting toolkit, it mainly includes application information collection, static analysis and dynamic analysis. It can be used for reverse engineering, binary analysis and vulnerability mining.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 281391604,
+                "language": "C++",
+                "last_commit": "2022-02-08T13:02:20Z",
+                "owner": "Soulghost",
+                "repo": "iblessing",
+                "stars": 686
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Analysis",
+              "description": "objection 📱 objection - runtime mobile exploration",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 95770373,
+                "language": "Python",
+                "last_commit": "2026-07-23T13:40:22Z",
+                "owner": "sensepost",
+                "repo": "objection",
+                "stars": 9341
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "RE",
+              "description": "momdec Core Data Managed Object Model Decompiler",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 9484441,
+                "language": "Objective-C",
+                "last_commit": "2020-10-04T18:30:58Z",
+                "owner": "atomicbird",
+                "repo": "momdec",
+                "stars": 304
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "RE",
+              "description": "iRET iOS Reverse Engineering Toolkit.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 18208321,
+                "language": "Shell",
+                "last_commit": "2024-06-14T20:10:18Z",
+                "owner": "S3Jensen",
+                "repo": "iRET",
+                "stars": 422
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "RE",
+              "description": "Clutch Fast iOS executable dumper",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 15789289,
+                "language": "Objective-C",
+                "last_commit": "2024-11-15T10:31:48Z",
+                "owner": "KJCracks",
+                "repo": "Clutch",
+                "stars": 3824
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "RE",
+              "description": "class-dump Generate Objective-C headers from Mach-O files.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1629150,
+                "language": "Objective-C",
+                "last_commit": "2022-04-06T09:30:24Z",
+                "owner": "nygard",
+                "repo": "class-dump",
+                "stars": 3585
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "RE",
+              "description": "frida-ios-dump pull decrypted ipa from Jailbreak device",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 112638598,
+                "language": "JavaScript",
+                "last_commit": "2023-05-03T01:42:52Z",
+                "owner": "AloneMonkey",
+                "repo": "frida-ios-dump",
+                "stars": 3919
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "RE",
+              "description": "ipsw iOS/macOS Research Swiss Army Knife",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 146060123,
+                "language": "Go",
+                "last_commit": "2026-08-24T08:07:06Z",
+                "owner": "blacktop",
+                "repo": "ipsw",
+                "stars": 3656
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Utils",
+              "description": "idb idb is a flexible command line interface for automating iOS simulators and devices",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 41870517,
+                "language": "Swift",
+                "last_commit": "2026-08-24T13:00:14Z",
+                "owner": "facebook",
+                "repo": "idb",
+                "stars": 5294
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ipainstaller",
+              "description": "ipainstaller Install IPA from command line",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 6970256,
+                "language": "C",
+                "last_commit": "2018-07-03T07:06:41Z",
+                "owner": "autopear",
+                "repo": "ipainstaller",
+                "stars": 260
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "bfinject",
+              "description": "bfinject Dylib injection for iOS 11.0 - 11.1.2 with LiberiOS and Electra Jailbreaks",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 118323368,
+                "language": "Objective-C++",
+                "last_commit": "2022-03-17T17:55:10Z",
+                "owner": "BishopFox",
+                "repo": "bfinject",
+                "stars": 642
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ssl-kill-switch2",
+              "description": "ssl-kill-switch2 Blackbox tool to disable SSL certificate validation - including certificate pinning - within iOS and OS X Apps",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 38914334,
+                "language": "Objective-C",
+                "last_commit": "2023-07-09T15:23:58Z",
+                "owner": "nabla-c0d3",
+                "repo": "ssl-kill-switch2",
+                "stars": 3310
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "toothpicker",
+              "description": "toothpicker ToothPicker is an in-process, coverage-guided fuzzer for iOS. for iOS Bluetooth",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 254193415,
+                "language": "Python",
+                "last_commit": "2021-09-21T17:23:27Z",
+                "owner": "seemoo-lab",
+                "repo": "toothpicker",
+                "stars": 245
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "iOS"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Analysis",
+              "description": "apkleaks Scanning APK file for URIs, endpoints & secrets.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 267958226,
+                "language": "Python",
+                "last_commit": "2025-08-20T21:55:15Z",
+                "owner": "dwisiswant0",
+                "repo": "apkleaks",
+                "stars": 6271
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Analysis",
+              "description": "drozer The Leading Security Assessment Framework for Android.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 3536659,
+                "language": "Python",
+                "last_commit": "2026-04-08T07:54:54Z",
+                "owner": "ReversecLabs",
+                "repo": "drozer",
+                "stars": 4594
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Pentest",
+              "description": "HacknDroid Automation of some Mobile Application Penetration Testing activities and interaction with the mobile Android device.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 879207026,
+                "language": "Python",
+                "last_commit": "2025-12-07T12:17:58Z",
+                "owner": "RaffaDNDM",
+                "repo": "HacknDroid",
+                "stars": 170
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "RE",
+              "description": "bytecode-viewer A Java 8+ Jar & Android APK Reverse Engineering Suite (Decompiler, Editor, Debugger & More)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 25201361,
+                "language": "Java",
+                "last_commit": "2026-07-17T04:48:36Z",
+                "owner": "Konloch",
+                "repo": "bytecode-viewer",
+                "stars": 15614
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "RE",
+              "description": "Apktool A tool for reverse engineering Android apk files",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 3766706,
+                "language": "Java",
+                "last_commit": "2026-08-24T11:01:21Z",
+                "owner": "iBotPeaches",
+                "repo": "Apktool",
+                "stars": 25360
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "RE",
+              "description": "androguard Reverse engineering, Malware and goodware analysis of Android applications ... and more (ninja !)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 23953531,
+                "language": "Python",
+                "last_commit": "2026-08-13T17:59:02Z",
+                "owner": "androguard",
+                "repo": "androguard",
+                "stars": 6202
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "RE",
+              "description": "dex2jar Tools to work with android .dex and java .class files",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 32313383,
+                "language": "Java",
+                "last_commit": "2024-07-21T06:08:25Z",
+                "owner": "pxb1988",
+                "repo": "dex2jar",
+                "stars": 13137
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "RE",
+              "description": "jadx Dex to Java decompiler",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 8859474,
+                "language": "Java",
+                "last_commit": "2026-08-19T18:52:12Z",
+                "owner": "skylot",
+                "repo": "jadx",
+                "stars": 50181
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "RE",
+              "description": "jd-gui A standalone Java Decompiler GUI",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 32844456,
+                "language": "Java",
+                "last_commit": "2024-07-08T18:45:59Z",
+                "owner": "java-decompiler",
+                "repo": "jd-gui",
+                "stars": 15175
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "RE",
+              "description": "btrace 🔥🔥 btrace(AKA RheaTrace) is a high performance Android trace tool which is based on Systrace, it support to define custom events automatically during building apk and using bhook to provider more native events like IO.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 439318197,
+                "language": "C++",
+                "last_commit": "2026-06-09T07:55:54Z",
+                "owner": "bytedance",
+                "repo": "btrace",
+                "stars": 2529
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "RE",
+              "description": "jadx-ai-mcp MCP server that provides access to JADX decompiler for AI assistants to analyze Android apps",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 962125208,
+                "language": "Java",
+                "last_commit": "2026-08-06T15:56:52Z",
+                "owner": "zinja-coder",
+                "repo": "jadx-ai-mcp",
+                "stars": 2698
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "RE",
+              "description": "apkx One-Step APK Decompilation With Multiple Backends",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 89123864,
+                "language": "Python",
+                "last_commit": "2021-01-19T06:11:07Z",
+                "owner": "muellerberndt",
+                "repo": "apkx",
+                "stars": 316
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "RE",
+              "description": "dex-oracle A pattern based Dalvik deobfuscator which uses limited execution to improve semantic analysis",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 47575951,
+                "language": "Ruby",
+                "last_commit": "2019-03-19T14:28:50Z",
+                "owner": "CalebFenton",
+                "repo": "dex-oracle",
+                "stars": 504
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "RE",
+              "description": "procyon Procyon is a suite of Java metaprogramming tools, including a rich reflection API, a LINQ-inspired expression tree API for runtime code generation, and a Java decompiler.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 217891090,
+                "language": "Java",
+                "last_commit": "2022-06-12T17:09:04Z",
+                "owner": "mstrobel",
+                "repo": "procyon",
+                "stars": 1211
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "RE",
+              "description": "enjarify Enjarify is a tool for translating Dalvik bytecode to equivalent Java bytecode. This allows Java analysis tools to analyze Android applications.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 80468491,
+                "language": "Python",
+                "last_commit": "2021-11-07T23:12:43Z",
+                "owner": "Storyyeller",
+                "repo": "enjarify",
+                "stars": 953
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Scanner",
+              "description": "qark Tool to look for several security related Android application vulnerabilities",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 38121886,
+                "language": "Python",
+                "last_commit": "2024-01-16T08:17:35Z",
+                "owner": "linkedin",
+                "repo": "qark",
+                "stars": 3382
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Utils",
+              "description": "behe-keyboard A lightweight hacking & programming keyboard with material design",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 95671256,
+                "language": "Java",
+                "last_commit": "2020-03-15T11:29:39Z",
+                "owner": "VladThodo",
+                "repo": "behe-keyboard",
+                "stars": 178
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Utils",
+              "description": "termux-app Termux - a terminal emulator application for Android OS extendible by variety of packages.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 44804216,
+                "language": "Java",
+                "last_commit": "2026-07-14T20:47:14Z",
+                "owner": "termux",
+                "repo": "termux-app",
+                "stars": 59691
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Utils",
+              "description": "Magisk The Magic Mask for Android",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 67702184,
+                "language": "Kotlin",
+                "last_commit": "2026-08-23T21:46:25Z",
+                "owner": "topjohnwu",
+                "repo": "Magisk",
+                "stars": 62407
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Device",
+              "description": "scrcpy Display and control your Android device",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 111583593,
+                "language": "C",
+                "last_commit": "2026-08-17T10:27:07Z",
+                "owner": "Genymobile",
+                "repo": "scrcpy",
+                "stars": 148168
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "nfcgate",
+              "description": "nfcgate An NFC research toolkit application for Android",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 25397675,
+                "language": "Java",
+                "last_commit": "2026-07-20T22:45:55Z",
+                "owner": "nfcgate",
+                "repo": "nfcgate",
+                "stars": 2319
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "gplaydl",
+              "description": "gplaydl Command Line Google Play APK downloader. Download APK files to your PC directly from Google Play Store.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 138140103,
+                "language": "Python",
+                "last_commit": "2026-08-01T11:49:18Z",
+                "owner": "rehmatworks",
+                "repo": "gplaydl",
+                "stars": 626
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Hijacker",
+              "description": "Hijacker Aircrack, Airodump, Aireplay, MDK3 and Reaver GUI Application for Android",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 74716204,
+                "language": "Java",
+                "last_commit": "2020-08-26T19:01:31Z",
+                "owner": "chrisk44",
+                "repo": "Hijacker",
+                "stars": 2544
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "PCAPdroid",
+              "description": "PCAPdroid No-root network monitor, firewall and PCAP dumper for Android",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 232157758,
+                "language": "Java",
+                "last_commit": "2026-08-24T08:59:12Z",
+                "owner": "emanuele-f",
+                "repo": "PCAPdroid",
+                "stars": 4591
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "gplaycli",
+              "description": "gplaycli Google Play Downloader via Command line",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 33446739,
+                "language": "Python",
+                "last_commit": "2021-10-02T12:02:32Z",
+                "owner": "matlink",
+                "repo": "gplaycli",
+                "stars": 1134
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "PlaystoreDownloader",
+              "description": "PlaystoreDownloader A command line tool to download Android applications directly from the Google Play Store by specifying their package name (an initial one-time configuration is required)",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 100208095,
+                "language": "Python",
+                "last_commit": "2024-07-27T12:07:16Z",
+                "owner": "ClaudiuGeorgiu",
+                "repo": "PlaystoreDownloader",
+                "stars": 1193
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "PortAuthority",
+              "description": "PortAuthority A handy systems and security-focused tool, Port Authority is a very fast Android port scanner. Port Authority also allows you to quickly discover hosts on your network and will display useful network information about your device and other hosts.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 27904264,
+                "language": "Java",
+                "last_commit": "2023-09-06T13:13:39Z",
+                "owner": "aaronjwood",
+                "repo": "PortAuthority",
+                "stars": 424
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Android"
+        }
+      ],
+      "title": "Weapons"
+    }
+  ],
   "metadata": {
-    "last_updated": "2026-08-24T10:19:18.808Z",
+    "last_updated": "2026-08-24T14:12:43.742Z",
     "original_repository": "hahwul/MobileHackersWeapons",
     "original_repository_id": 329039148,
     "original_repository_sha": "10da82baf9629e2acc14697898d5db0794bb08c5",
