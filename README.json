@@ -62,7 +62,7 @@
                 "last_commit": "2026-08-27T11:50:24Z",
                 "owner": "rapid7",
                 "repo": "metasploit-framework",
-                "stars": 38891
+                "stars": 38893
               }
             },
             {
@@ -74,10 +74,10 @@
                 "archived": false,
                 "id": 36817565,
                 "language": "Java",
-                "last_commit": "2026-08-27T08:01:46Z",
+                "last_commit": "2026-08-27T15:18:12Z",
                 "owner": "zaproxy",
                 "repo": "zaproxy",
-                "stars": 15689
+                "stars": 15693
               }
             },
             {
@@ -89,7 +89,7 @@
                 "archived": false,
                 "id": 316539944,
                 "language": "Go",
-                "last_commit": "2026-08-10T09:04:29Z",
+                "last_commit": "2026-08-27T19:14:12Z",
                 "owner": "projectdiscovery",
                 "repo": "proxify",
                 "stars": 3064
@@ -134,10 +134,10 @@
                 "archived": false,
                 "id": 140466708,
                 "language": "Python",
-                "last_commit": "2026-08-18T13:32:39Z",
+                "last_commit": "2026-08-27T16:26:29Z",
                 "owner": "frida",
                 "repo": "frida-tools",
-                "stars": 523
+                "stars": 525
               }
             },
             {
@@ -152,7 +152,7 @@
                 "last_commit": "2024-08-07T13:03:21Z",
                 "owner": "Nightbringer21",
                 "repo": "fridump",
-                "stars": 858
+                "stars": 859
               }
             },
             {
@@ -164,10 +164,10 @@
                 "archived": false,
                 "id": 9405122,
                 "language": "Meson",
-                "last_commit": "2026-08-18T13:32:43Z",
+                "last_commit": "2026-08-27T16:26:32Z",
                 "owner": "frida",
                 "repo": "frida",
-                "stars": 21759
+                "stars": 21763
               }
             },
             {
@@ -182,7 +182,7 @@
                 "last_commit": "2026-08-25T16:51:31Z",
                 "owner": "NationalSecurityAgency",
                 "repo": "ghidra",
-                "stars": 72928
+                "stars": 72992
               }
             },
             {
@@ -197,7 +197,7 @@
                 "last_commit": "2016-11-03T11:23:25Z",
                 "owner": "antojoseph",
                 "repo": "diff-gui",
-                "stars": 182
+                "stars": 183
               }
             },
             {
@@ -239,7 +239,7 @@
                 "archived": false,
                 "id": 6930489,
                 "language": "C++",
-                "last_commit": "2026-08-26T16:35:40Z",
+                "last_commit": "2026-08-27T16:36:48Z",
                 "owner": "facebook",
                 "repo": "watchman",
                 "stars": 13695
@@ -257,7 +257,7 @@
                 "last_commit": "2026-08-02T21:39:51Z",
                 "owner": "0xdea",
                 "repo": "frida-scripts",
-                "stars": 1653
+                "stars": 1654
               }
             },
             {
@@ -272,7 +272,7 @@
                 "last_commit": "2026-08-16T02:21:11Z",
                 "owner": "ksg97031",
                 "repo": "frida-gadget",
-                "stars": 452
+                "stars": 453
               }
             }
           ],
@@ -324,7 +324,7 @@
                 "last_commit": "2026-07-23T13:40:22Z",
                 "owner": "sensepost",
                 "repo": "objection",
-                "stars": 9348
+                "stars": 9349
               }
             },
             {
@@ -399,7 +399,7 @@
                 "last_commit": "2023-05-03T01:42:52Z",
                 "owner": "AloneMonkey",
                 "repo": "frida-ios-dump",
-                "stars": 3921
+                "stars": 3922
               }
             },
             {
@@ -414,7 +414,7 @@
                 "last_commit": "2026-08-26T18:08:04Z",
                 "owner": "blacktop",
                 "repo": "ipsw",
-                "stars": 3669
+                "stars": 3670
               }
             },
             {
@@ -426,10 +426,10 @@
                 "archived": false,
                 "id": 41870517,
                 "language": "Swift",
-                "last_commit": "2026-08-27T11:54:01Z",
+                "last_commit": "2026-08-27T17:02:35Z",
                 "owner": "facebook",
                 "repo": "idb",
-                "stars": 5298
+                "stars": 5300
               }
             },
             {
@@ -489,7 +489,7 @@
                 "last_commit": "2021-09-21T17:23:27Z",
                 "owner": "seemoo-lab",
                 "repo": "toothpicker",
-                "stars": 245
+                "stars": 246
               }
             }
           ],
@@ -511,7 +511,7 @@
                 "last_commit": "2025-08-20T21:55:15Z",
                 "owner": "dwisiswant0",
                 "repo": "apkleaks",
-                "stars": 6276
+                "stars": 6275
               }
             },
             {
@@ -526,7 +526,7 @@
                 "last_commit": "2026-04-08T07:54:54Z",
                 "owner": "ReversecLabs",
                 "repo": "drozer",
-                "stars": 4597
+                "stars": 4596
               }
             },
             {
@@ -571,7 +571,7 @@
                 "last_commit": "2026-08-26T10:30:33Z",
                 "owner": "iBotPeaches",
                 "repo": "Apktool",
-                "stars": 25388
+                "stars": 25392
               }
             },
             {
@@ -601,7 +601,7 @@
                 "last_commit": "2024-07-21T06:08:25Z",
                 "owner": "pxb1988",
                 "repo": "dex2jar",
-                "stars": 13135
+                "stars": 13136
               }
             },
             {
@@ -616,7 +616,7 @@
                 "last_commit": "2026-08-19T18:52:12Z",
                 "owner": "skylot",
                 "repo": "jadx",
-                "stars": 50230
+                "stars": 50236
               }
             },
             {
@@ -661,7 +661,7 @@
                 "last_commit": "2026-08-06T15:56:52Z",
                 "owner": "zinja-coder",
                 "repo": "jadx-ai-mcp",
-                "stars": 2717
+                "stars": 2718
               }
             },
             {
@@ -766,7 +766,7 @@
                 "last_commit": "2026-08-24T15:23:08Z",
                 "owner": "termux",
                 "repo": "termux-app",
-                "stars": 59857
+                "stars": 59870
               }
             },
             {
@@ -778,10 +778,10 @@
                 "archived": false,
                 "id": 67702184,
                 "language": "Kotlin",
-                "last_commit": "2026-08-27T10:03:31Z",
+                "last_commit": "2026-08-27T17:19:58Z",
                 "owner": "topjohnwu",
                 "repo": "Magisk",
-                "stars": 62466
+                "stars": 62463
               }
             },
             {
@@ -796,7 +796,7 @@
                 "last_commit": "2026-08-17T10:27:07Z",
                 "owner": "Genymobile",
                 "repo": "scrcpy",
-                "stars": 148366
+                "stars": 148390
               }
             },
             {
@@ -811,7 +811,7 @@
                 "last_commit": "2026-07-20T22:45:55Z",
                 "owner": "nfcgate",
                 "repo": "nfcgate",
-                "stars": 2335
+                "stars": 2336
               }
             },
             {
@@ -826,7 +826,7 @@
                 "last_commit": "2026-08-01T11:49:18Z",
                 "owner": "rehmatworks",
                 "repo": "gplaydl",
-                "stars": 628
+                "stars": 627
               }
             },
             {
@@ -856,7 +856,7 @@
                 "last_commit": "2026-08-26T20:37:14Z",
                 "owner": "emanuele-f",
                 "repo": "PCAPdroid",
-                "stars": 4607
+                "stars": 4608
               }
             },
             {
@@ -901,7 +901,7 @@
                 "last_commit": "2023-09-06T13:13:39Z",
                 "owner": "aaronjwood",
                 "repo": "PortAuthority",
-                "stars": 424
+                "stars": 422
               }
             }
           ],
@@ -914,7 +914,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:56:46.409Z",
+    "last_updated": "2026-08-27T19:56:25.212Z",
     "original_repository_info": {
       "archived": false,
       "id": 329039148,
