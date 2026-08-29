@@ -12,12 +12,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "A desktop debugging platform for mobile developers.",
+                "homepage": "https://fbflipper.com/",
                 "id": 129283183,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2025-09-26T15:48:25Z",
+                "open_issues": 507,
                 "owner": "facebook",
                 "repo": "flipper",
-                "stars": 13457
+                "stars": 13457,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:58:28.679Z"
             },
@@ -28,12 +33,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Runtime Mobile Security (RMS) 📱🔥  - is a powerful web interface that helps you to manipulate Android and iOS Apps at Runtime",
+                "homepage": "https://twitter.com/mobilesecurity_",
                 "id": 250552704,
                 "language": "JavaScript",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-03T21:28:34Z",
+                "open_issues": 8,
                 "owner": "m0bilesecurity",
                 "repo": "RMS-Runtime-Mobile-Security",
-                "stars": 3077
+                "stars": 3077,
+                "topics": [
+                  "android-security",
+                  "frida",
+                  "ios-security",
+                  "mobile-security",
+                  "reverse-engineering"
+                ]
               },
               "first_seen": "2026-08-28T20:58:28.679Z"
             },
@@ -44,12 +60,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Mobile application testing toolkit",
+                "homepage": null,
                 "id": 134873535,
                 "language": "Python",
+                "license": "BSD-3-Clause",
                 "last_commit": "2018-11-08T15:59:22Z",
+                "open_issues": 2,
                 "owner": "nettitude",
                 "repo": "scrounger",
-                "stars": 248
+                "stars": 248,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:58:28.679Z"
             },
@@ -60,12 +81,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Metasploit Framework",
+                "homepage": "https://www.metasploit.com/",
                 "id": 2293158,
                 "language": "Ruby",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-28T17:59:06Z",
+                "open_issues": 593,
                 "owner": "rapid7",
                 "repo": "metasploit-framework",
-                "stars": 38904
+                "stars": 38906,
+                "topics": [
+                  "hacktoberfest"
+                ]
               },
               "first_seen": "2026-08-28T20:58:28.679Z"
             },
@@ -76,12 +104,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The ZAP by Checkmarx Core project",
+                "homepage": "https://www.zaproxy.org",
                 "id": 36817565,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-27T15:18:12Z",
+                "open_issues": 858,
                 "owner": "zaproxy",
                 "repo": "zaproxy",
-                "stars": 15696
+                "stars": 15701,
+                "topics": [
+                  "appsec",
+                  "dast",
+                  "hacktoberfest",
+                  "opensource",
+                  "security",
+                  "security-scanner",
+                  "zap",
+                  "zap-development",
+                  "zaproxy"
+                ]
               },
               "first_seen": "2026-08-28T20:58:28.679Z"
             },
@@ -92,12 +135,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A versatile and portable proxy for capturing, manipulating, and replaying HTTP/HTTPS traffic on the go.",
+                "homepage": "https://projectdiscovery.io",
                 "id": 316539944,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2026-08-27T19:14:12Z",
+                "open_issues": 3,
                 "owner": "projectdiscovery",
                 "repo": "proxify",
-                "stars": 3064
+                "stars": 3064,
+                "topics": [
+                  "http-proxy",
+                  "mitm",
+                  "mitmproxy",
+                  "socks5-proxy"
+                ]
               },
               "first_seen": "2026-08-28T20:58:28.679Z"
             },
@@ -108,12 +161,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An HTTP toolkit for security research.",
+                "homepage": "https://hetty.xyz",
                 "id": 222258954,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2026-07-21T20:10:42Z",
+                "open_issues": 48,
                 "owner": "dstotijn",
                 "repo": "hetty",
-                "stars": 12007
+                "stars": 12007,
+                "topics": [
+                  "bugbounty",
+                  "http",
+                  "infosec",
+                  "mitm",
+                  "pentesting",
+                  "proxy"
+                ]
               },
               "first_seen": "2026-08-28T20:58:28.679Z"
             },
@@ -124,12 +189,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "HTTP Toolkit is a beautiful & open-source tool for debugging, testing and building with HTTP(S) on Windows, Linux & Mac  :tada:  Open an issue here to give feedback or ask for help.",
+                "homepage": "https://httptoolkit.com",
                 "id": 159495816,
                 "language": null,
+                "license": null,
                 "last_commit": "2026-02-04T10:36:05Z",
+                "open_issues": 316,
                 "owner": "httptoolkit",
                 "repo": "httptoolkit",
-                "stars": 3611
+                "stars": 3611,
+                "topics": [
+                  "developer-tools",
+                  "feedback",
+                  "http"
+                ]
               },
               "first_seen": "2026-08-28T20:58:28.679Z"
             },
@@ -140,12 +214,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Frida CLI tools",
+                "homepage": null,
                 "id": 140466708,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-27T16:26:29Z",
+                "open_issues": 56,
                 "owner": "frida",
                 "repo": "frida-tools",
-                "stars": 525
+                "stars": 525,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:58:28.679Z"
             },
@@ -156,12 +235,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A universal memory dumper using Frida",
+                "homepage": null,
                 "id": 58191695,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-08-07T13:03:21Z",
+                "open_issues": 27,
                 "owner": "Nightbringer21",
                 "repo": "fridump",
-                "stars": 859
+                "stars": 859,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:58:28.679Z"
             },
@@ -172,12 +256,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Main repo for hosting release binaries",
+                "homepage": "https://frida.re",
                 "id": 9405122,
                 "language": "Meson",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-27T16:26:32Z",
+                "open_issues": 1959,
                 "owner": "frida",
                 "repo": "frida",
-                "stars": 21780
+                "stars": 21783,
+                "topics": [
+                  "frida",
+                  "instrumentation",
+                  "vala"
+                ]
               },
               "first_seen": "2026-08-28T20:58:28.679Z"
             },
@@ -188,12 +281,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Ghidra is a software reverse engineering (SRE) framework",
+                "homepage": "https://www.nsa.gov/ghidra",
                 "id": 173228436,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-28T13:31:09Z",
+                "open_issues": 1921,
                 "owner": "NationalSecurityAgency",
                 "repo": "ghidra",
-                "stars": 73293
+                "stars": 73385,
+                "topics": [
+                  "disassembler",
+                  "reverse-engineering",
+                  "software-analysis"
+                ]
               },
               "first_seen": "2026-08-28T20:58:28.679Z"
             },
@@ -204,12 +306,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "GUI for Frida -Scripts ",
+                "homepage": null,
                 "id": 62171810,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2016-11-03T11:23:25Z",
+                "open_issues": 2,
                 "owner": "antojoseph",
                 "repo": "diff-gui",
-                "stars": 183
+                "stars": 183,
+                "topics": [
+                  "diff-gui",
+                  "frida",
+                  "frida-server",
+                  "gui"
+                ]
               },
               "first_seen": "2026-08-28T20:58:28.679Z"
             },
@@ -220,12 +332,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "StaCoAn is a crossplatform tool which aids developers, bugbounty hunters and ethical hackers performing static code analysis on mobile applications.",
+                "homepage": null,
                 "id": 119727944,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2021-04-27T07:05:51Z",
+                "open_issues": 11,
                 "owner": "vincentcox",
                 "repo": "StaCoAn",
-                "stars": 868
+                "stars": 868,
+                "topics": [
+                  "bugbounty",
+                  "mobile-security",
+                  "security",
+                  "security-tools",
+                  "static-code-analysis"
+                ]
               },
               "first_seen": "2026-08-28T20:58:28.679Z"
             },
@@ -236,12 +359,37 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Mobile Security Framework (MobSF) is an automated, all-in-one mobile application (Android/iOS/Windows) pen-testing, malware analysis and security assessment framework capable of performing static and dynamic analysis.",
+                "homepage": "https://opensecurity.in",
                 "id": 30102273,
                 "language": "JavaScript",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-27T04:55:25Z",
+                "open_issues": 25,
                 "owner": "MobSF",
                 "repo": "Mobile-Security-Framework-MobSF",
-                "stars": 21660
+                "stars": 21661,
+                "topics": [
+                  "android-security",
+                  "api-testing",
+                  "apk",
+                  "cwe",
+                  "devsecops",
+                  "dynamic-analysis",
+                  "ios-security",
+                  "malware-analysis",
+                  "mastg",
+                  "masvs",
+                  "mobile-security",
+                  "mobsf",
+                  "mstg",
+                  "owasp",
+                  "rest",
+                  "runtime-security",
+                  "static-analysis",
+                  "web-security",
+                  "windows-mobile-security"
+                ]
               },
               "first_seen": "2026-08-28T20:58:28.679Z"
             },
@@ -252,12 +400,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Watches files and records, or triggers actions, when they change. ",
+                "homepage": "https://facebook.github.io/watchman/",
                 "id": 6930489,
                 "language": "C++",
-                "last_commit": "2026-08-28T20:18:25Z",
+                "license": "MIT",
+                "last_commit": "2026-08-29T01:51:05Z",
+                "open_issues": 258,
                 "owner": "facebook",
                 "repo": "watchman",
-                "stars": 13695
+                "stars": 13695,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:58:28.679Z"
             },
@@ -268,12 +421,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A collection of my Frida instrumentation scripts to reverse engineer mobile apps and more.",
+                "homepage": "https://www.frida.re",
                 "id": 101912162,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-08-02T21:39:51Z",
+                "open_issues": 2,
                 "owner": "0xdea",
                 "repo": "frida-scripts",
-                "stars": 1654
+                "stars": 1654,
+                "topics": [
+                  "android",
+                  "frida",
+                  "ios",
+                  "linux",
+                  "mobile",
+                  "reverse-engineering"
+                ]
               },
               "first_seen": "2026-08-28T20:58:28.679Z"
             },
@@ -284,12 +449,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Automated tool for patching APKs to enable the use of Frida gadget by downloading the library and injecting code into the main activity.",
+                "homepage": null,
                 "id": 196915236,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-16T02:21:11Z",
+                "open_issues": 11,
                 "owner": "ksg97031",
                 "repo": "frida-gadget",
-                "stars": 453
+                "stars": 453,
+                "topics": [
+                  "android",
+                  "apk",
+                  "frida",
+                  "frida-gadget",
+                  "pentest",
+                  "reversing",
+                  "security"
+                ]
               },
               "first_seen": "2026-08-28T20:58:28.679Z"
             }
@@ -307,12 +485,24 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "The iOS Security Testing Framework",
+                "homepage": "https://mobiletools.mwrinfosecurity.com/",
                 "id": 64016453,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2020-10-25T16:17:16Z",
+                "open_issues": 25,
                 "owner": "ReversecLabs",
                 "repo": "needle",
-                "stars": 1401
+                "stars": 1401,
+                "topics": [
+                  "ios",
+                  "mobile",
+                  "needle",
+                  "pentesting",
+                  "python",
+                  "security"
+                ]
               },
               "first_seen": "2026-08-28T20:58:28.679Z"
             },
@@ -323,12 +513,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "iblessing is an iOS security exploiting toolkit, it mainly includes application information gathering, static analysis and dynamic analysis. It can be used for reverse engineering, binary analysis and vulnerability mining.",
+                "homepage": null,
                 "id": 281391604,
                 "language": "C++",
+                "license": "GPL-3.0",
                 "last_commit": "2022-02-08T13:02:20Z",
+                "open_issues": 3,
                 "owner": "Soulghost",
                 "repo": "iblessing",
-                "stars": 686
+                "stars": 686,
+                "topics": [
+                  "exploit",
+                  "ios",
+                  "reverse-engineering",
+                  "scanner",
+                  "vulnerability",
+                  "vulnerability-scanners"
+                ]
               },
               "first_seen": "2026-08-28T20:58:28.679Z"
             },
@@ -339,12 +541,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "📱 objection - runtime mobile exploration",
+                "homepage": null,
                 "id": 95770373,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2026-07-23T13:40:22Z",
+                "open_issues": 55,
                 "owner": "sensepost",
                 "repo": "objection",
-                "stars": 9350
+                "stars": 9350,
+                "topics": [
+                  "android",
+                  "framework",
+                  "frida",
+                  "instrumentation",
+                  "ios",
+                  "mobile",
+                  "pentest",
+                  "security"
+                ]
               },
               "first_seen": "2026-08-28T20:58:28.679Z"
             },
@@ -355,12 +571,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Core Data Managed Object Model Decompiler",
+                "homepage": null,
                 "id": 9484441,
                 "language": "Objective-C",
+                "license": "MIT",
                 "last_commit": "2020-10-04T18:30:58Z",
+                "open_issues": 4,
                 "owner": "atomicbird",
                 "repo": "momdec",
-                "stars": 304
+                "stars": 304,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:58:28.679Z"
             },
@@ -371,12 +592,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 18208321,
                 "language": "Shell",
+                "license": "NOASSERTION",
                 "last_commit": "2024-06-14T20:10:18Z",
+                "open_issues": 22,
                 "owner": "S3Jensen",
                 "repo": "iRET",
-                "stars": 422
+                "stars": 422,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:58:28.679Z"
             },
@@ -387,12 +613,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Fast iOS executable dumper",
+                "homepage": null,
                 "id": 15789289,
                 "language": "Objective-C",
+                "license": null,
                 "last_commit": "2024-11-15T10:31:48Z",
+                "open_issues": 43,
                 "owner": "KJCracks",
                 "repo": "Clutch",
-                "stars": 3824
+                "stars": 3824,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:58:28.679Z"
             },
@@ -403,12 +634,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Generate Objective-C headers from Mach-O files.",
+                "homepage": "http://stevenygard.com/projects/class-dump",
                 "id": 1629150,
                 "language": "Objective-C",
+                "license": null,
                 "last_commit": "2022-04-06T09:30:24Z",
+                "open_issues": 41,
                 "owner": "nygard",
                 "repo": "class-dump",
-                "stars": 3585
+                "stars": 3585,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:58:28.679Z"
             },
@@ -419,12 +655,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "pull decrypted ipa from jailbreak device",
+                "homepage": null,
                 "id": 112638598,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2023-05-03T01:42:52Z",
+                "open_issues": 107,
                 "owner": "AloneMonkey",
                 "repo": "frida-ios-dump",
-                "stars": 3922
+                "stars": 3922,
+                "topics": [
+                  "decrypted",
+                  "dumpdecrypted",
+                  "ios",
+                  "ipa",
+                  "reverse-engineering"
+                ]
               },
               "first_seen": "2026-08-28T20:58:28.679Z"
             },
@@ -435,12 +682,36 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "iOS/macOS Research Swiss Army Knife",
+                "homepage": "https://blacktop.github.io/ipsw",
                 "id": 146060123,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2026-08-28T01:35:37Z",
+                "open_issues": 7,
                 "owner": "blacktop",
                 "repo": "ipsw",
-                "stars": 3674
+                "stars": 3674,
+                "topics": [
+                  "apple",
+                  "class-dump",
+                  "dyld",
+                  "dyld-shared-cache",
+                  "firmware",
+                  "golang",
+                  "img4",
+                  "ios",
+                  "ipsw",
+                  "kernelcache",
+                  "lzfse",
+                  "lzss",
+                  "macho",
+                  "macho-parser",
+                  "macos",
+                  "ota",
+                  "swift",
+                  "swift-dump"
+                ]
               },
               "first_seen": "2026-08-28T20:58:28.679Z"
             },
@@ -451,12 +722,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "idb is a flexible command line interface for automating iOS simulators and devices",
+                "homepage": "https://fbidb.io/",
                 "id": 41870517,
                 "language": "Swift",
+                "license": "MIT",
                 "last_commit": "2026-08-28T12:19:51Z",
+                "open_issues": 182,
                 "owner": "facebook",
                 "repo": "idb",
-                "stars": 5301
+                "stars": 5302,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:58:28.679Z"
             },
@@ -467,12 +743,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Install IPA from command line",
+                "homepage": null,
                 "id": 6970256,
                 "language": "C",
+                "license": null,
                 "last_commit": "2018-07-03T07:06:41Z",
+                "open_issues": 12,
                 "owner": "autopear",
                 "repo": "ipainstaller",
-                "stars": 261
+                "stars": 261,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:58:28.679Z"
             },
@@ -483,12 +764,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Dylib injection for iOS 11.0 - 11.1.2 with LiberiOS and Electra jailbreaks",
+                "homepage": null,
                 "id": 118323368,
                 "language": "Objective-C++",
+                "license": "Apache-2.0",
                 "last_commit": "2022-03-17T17:55:10Z",
+                "open_issues": 34,
                 "owner": "BishopFox",
                 "repo": "bfinject",
-                "stars": 642
+                "stars": 642,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:58:28.679Z"
             },
@@ -499,12 +785,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Blackbox tool to disable SSL certificate validation - including certificate pinning - within iOS and macOS applications.",
+                "homepage": null,
                 "id": 38914334,
                 "language": "Objective-C",
+                "license": "NOASSERTION",
                 "last_commit": "2023-07-09T15:23:58Z",
+                "open_issues": 19,
                 "owner": "nabla-c0d3",
                 "repo": "ssl-kill-switch2",
-                "stars": 3312
+                "stars": 3312,
+                "topics": [
+                  "blackbox",
+                  "cydia",
+                  "ios",
+                  "macos",
+                  "reverse-engineering",
+                  "security",
+                  "ssl",
+                  "ssl-pinning"
+                ]
               },
               "first_seen": "2026-08-28T20:58:28.679Z"
             },
@@ -515,12 +815,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 254193415,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2021-09-21T17:23:27Z",
+                "open_issues": 1,
                 "owner": "seemoo-lab",
                 "repo": "toothpicker",
-                "stars": 246
+                "stars": 246,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:58:28.679Z"
             }
@@ -538,12 +843,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Scanning APK file for URIs, endpoints & secrets.",
+                "homepage": null,
                 "id": 267958226,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2025-08-20T21:55:15Z",
+                "open_issues": 26,
                 "owner": "dwisiswant0",
                 "repo": "apkleaks",
-                "stars": 6276
+                "stars": 6277,
+                "topics": [
+                  "android-security",
+                  "apk",
+                  "apk-parser",
+                  "bugbounty",
+                  "mobile-security",
+                  "reverse-engineering",
+                  "scanning-apk",
+                  "static-analysis"
+                ]
               },
               "first_seen": "2026-08-28T20:58:28.679Z"
             },
@@ -554,12 +873,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The Leading Security Assessment Framework for Android.",
+                "homepage": "https://labs.reversec.com/tools/drozer",
                 "id": 3536659,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-04-08T07:54:54Z",
+                "open_issues": 9,
                 "owner": "ReversecLabs",
                 "repo": "drozer",
-                "stars": 4599
+                "stars": 4599,
+                "topics": [
+                  "android",
+                  "drozer",
+                  "java",
+                  "mobile",
+                  "mobsec",
+                  "pentesting",
+                  "reversec",
+                  "security"
+                ]
               },
               "first_seen": "2026-08-28T20:58:28.679Z"
             },
@@ -570,12 +903,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Automation of some MAPT activities and interaction with the mobile Android device.",
+                "homepage": "https://raffadndm.gitbook.io/tools/hackndroid",
                 "id": 879207026,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2025-12-07T12:17:58Z",
+                "open_issues": 0,
                 "owner": "RaffaDNDM",
                 "repo": "HacknDroid",
-                "stars": 170
+                "stars": 170,
+                "topics": [
+                  "android-analysis",
+                  "android-penetration-testing",
+                  "android-pentesting",
+                  "flask",
+                  "frida",
+                  "mobile-hacking",
+                  "mobile-penetration-testing",
+                  "mobile-pentest",
+                  "mobile-pentest-toolkit"
+                ]
               },
               "first_seen": "2026-08-28T20:58:28.679Z"
             },
@@ -586,12 +934,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Java 8+ Jar & Android APK Reverse Engineering Suite (Decompiler, Editor, Debugger & More)",
+                "homepage": "https://bytecodeviewer.com",
                 "id": 25201361,
                 "language": "Java",
+                "license": "GPL-3.0",
                 "last_commit": "2026-07-17T04:48:36Z",
+                "open_issues": 103,
                 "owner": "Konloch",
                 "repo": "bytecode-viewer",
-                "stars": 15617
+                "stars": 15617,
+                "topics": [
+                  "android",
+                  "apk",
+                  "baksmali",
+                  "bytecode",
+                  "bytecode-viewer",
+                  "cfr",
+                  "compiler",
+                  "decompiler",
+                  "dex2jar",
+                  "fernflower",
+                  "hacktoberfest",
+                  "java",
+                  "java-decompiler",
+                  "jsp",
+                  "krakatau",
+                  "procyon",
+                  "recompiler",
+                  "smali",
+                  "static-analysis",
+                  "war"
+                ]
               },
               "first_seen": "2026-08-28T20:58:28.679Z"
             },
@@ -602,12 +976,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A tool for reverse engineering Android apk files",
+                "homepage": "https://apktool.org",
                 "id": 3766706,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-26T10:30:33Z",
+                "open_issues": 81,
                 "owner": "iBotPeaches",
                 "repo": "Apktool",
-                "stars": 25402
+                "stars": 25403,
+                "topics": [
+                  "9patch",
+                  "android",
+                  "apk",
+                  "apktool",
+                  "arsc",
+                  "reverse-engineering"
+                ]
               },
               "first_seen": "2026-08-28T20:58:28.679Z"
             },
@@ -618,12 +1004,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Reverse engineering and pentesting for Android applications ",
+                "homepage": "https://ismyphonepwned.com/droid2web/",
                 "id": 23953531,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-13T17:59:02Z",
+                "open_issues": 45,
                 "owner": "androguard",
                 "repo": "androguard",
-                "stars": 6212
+                "stars": 6214,
+                "topics": [
+                  "android",
+                  "dalvik",
+                  "dex",
+                  "odex",
+                  "pentesting",
+                  "reverse-engineering"
+                ]
               },
               "first_seen": "2026-08-28T20:58:28.679Z"
             },
@@ -634,12 +1032,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Tools to work with android .dex and java .class files",
+                "homepage": null,
                 "id": 32313383,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2024-07-21T06:08:25Z",
+                "open_issues": 379,
                 "owner": "pxb1988",
                 "repo": "dex2jar",
-                "stars": 13137
+                "stars": 13137,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:58:28.679Z"
             },
@@ -650,12 +1053,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Dex to Java decompiler",
+                "homepage": null,
                 "id": 8859474,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-28T18:02:10Z",
+                "open_issues": 443,
                 "owner": "skylot",
                 "repo": "jadx",
-                "stars": 50248
+                "stars": 50251,
+                "topics": [
+                  "android",
+                  "decompiler",
+                  "dex",
+                  "java"
+                ]
               },
               "first_seen": "2026-08-28T20:58:28.679Z"
             },
@@ -666,12 +1079,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A standalone Java Decompiler GUI",
+                "homepage": null,
                 "id": 32844456,
                 "language": "Java",
+                "license": "GPL-3.0",
                 "last_commit": "2024-07-08T18:45:59Z",
+                "open_issues": 248,
                 "owner": "java-decompiler",
                 "repo": "jd-gui",
-                "stars": 15182
+                "stars": 15182,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:58:28.679Z"
             },
@@ -682,12 +1100,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🔥🔥 btrace (AKA RheaTrace) is a high-performance Android & iOS tracing tool built on Perfetto. It not only times your methods but also reveals why they’re slow.",
+                "homepage": null,
                 "id": 439318197,
                 "language": "C++",
+                "license": "NOASSERTION",
                 "last_commit": "2026-06-09T07:55:54Z",
+                "open_issues": 77,
                 "owner": "bytedance",
                 "repo": "btrace",
-                "stars": 2534
+                "stars": 2534,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:58:28.679Z"
             },
@@ -698,12 +1121,31 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Plugin for JADX to integrate MCP server",
+                "homepage": null,
                 "id": 962125208,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-06T15:56:52Z",
+                "open_issues": 4,
                 "owner": "zinja-coder",
                 "repo": "jadx-ai-mcp",
-                "stars": 2723
+                "stars": 2724,
+                "topics": [
+                  "ai",
+                  "java",
+                  "llm",
+                  "mcp",
+                  "mcp-server",
+                  "mcp-servers",
+                  "mobile",
+                  "model-context-protocol",
+                  "model-context-protocol-servers",
+                  "pentesting",
+                  "reverse-engineering",
+                  "sast",
+                  "vapt"
+                ]
               },
               "first_seen": "2026-08-28T20:58:28.679Z"
             },
@@ -714,12 +1156,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "One-Step APK Decompilation With Multiple Backends",
+                "homepage": null,
                 "id": 89123864,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2021-01-19T06:11:07Z",
+                "open_issues": 4,
                 "owner": "muellerberndt",
                 "repo": "apkx",
-                "stars": 316
+                "stars": 316,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:58:28.679Z"
             },
@@ -730,12 +1177,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A pattern based Dalvik deobfuscator which uses limited execution to improve semantic analysis",
+                "homepage": null,
                 "id": 47575951,
                 "language": "Ruby",
+                "license": "MIT",
                 "last_commit": "2019-03-19T14:28:50Z",
+                "open_issues": 14,
                 "owner": "CalebFenton",
                 "repo": "dex-oracle",
-                "stars": 504
+                "stars": 504,
+                "topics": [
+                  "android",
+                  "android-malware",
+                  "dalvik",
+                  "deobfuscation",
+                  "deobfuscator",
+                  "dex",
+                  "malware",
+                  "malware-analysis",
+                  "malware-analyzer",
+                  "malware-research",
+                  "reverse-engineer-apk",
+                  "reverse-engineering"
+                ]
               },
               "first_seen": "2026-08-28T20:58:28.679Z"
             },
@@ -746,12 +1211,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Procyon is a suite of Java metaprogramming tools, including a rich reflection API, a LINQ-inspired expression tree API for runtime code generation, and a Java decompiler.",
+                "homepage": null,
                 "id": 217891090,
                 "language": "Java",
+                "license": "NOASSERTION",
                 "last_commit": "2022-06-12T17:09:04Z",
+                "open_issues": 59,
                 "owner": "mstrobel",
                 "repo": "procyon",
-                "stars": 1212
+                "stars": 1212,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:58:28.679Z"
             },
@@ -762,12 +1232,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 80468491,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2021-11-07T23:12:43Z",
+                "open_issues": 8,
                 "owner": "Storyyeller",
                 "repo": "enjarify",
-                "stars": 953
+                "stars": 953,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:58:28.679Z"
             },
@@ -778,12 +1253,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Tool to look for several security related Android application vulnerabilities",
+                "homepage": null,
                 "id": 38121886,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2024-01-16T08:17:35Z",
+                "open_issues": 79,
                 "owner": "linkedin",
                 "repo": "qark",
-                "stars": 3382
+                "stars": 3382,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:58:28.679Z"
             },
@@ -794,12 +1274,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A lightweight hacking & programming keyboard with material design",
+                "homepage": null,
                 "id": 95671256,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2020-03-15T11:29:39Z",
+                "open_issues": 49,
                 "owner": "VladThodo",
                 "repo": "behe-keyboard",
-                "stars": 178
+                "stars": 178,
+                "topics": [
+                  "android",
+                  "keyboard",
+                  "material-design",
+                  "open-source"
+                ]
               },
               "first_seen": "2026-08-28T20:58:28.679Z"
             },
@@ -810,12 +1300,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Termux - a terminal emulator application for Android OS extendible by variety of packages.",
+                "homepage": "https://f-droid.org/en/packages/com.termux",
                 "id": 44804216,
                 "language": "Java",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-24T15:23:08Z",
+                "open_issues": 598,
                 "owner": "termux",
                 "repo": "termux-app",
-                "stars": 59932
+                "stars": 59946,
+                "topics": [
+                  "android",
+                  "hacktoberfest",
+                  "linux",
+                  "terminal",
+                  "termux"
+                ]
               },
               "first_seen": "2026-08-28T20:58:28.679Z"
             },
@@ -826,12 +1327,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The Magic Mask for Android",
+                "homepage": null,
                 "id": 67702184,
                 "language": "Kotlin",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-27T17:19:58Z",
+                "open_issues": 38,
                 "owner": "topjohnwu",
                 "repo": "Magisk",
-                "stars": 62477
+                "stars": 62481,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:58:28.679Z"
             },
@@ -842,12 +1348,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Display and control your Android device",
+                "homepage": null,
                 "id": 111583593,
                 "language": "C",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-17T10:27:07Z",
+                "open_issues": 2884,
                 "owner": "Genymobile",
                 "repo": "scrcpy",
-                "stars": 148448
+                "stars": 148468,
+                "topics": [
+                  "android",
+                  "c",
+                  "ffmpeg",
+                  "libav",
+                  "mirroring",
+                  "recording",
+                  "screen",
+                  "sdl2"
+                ]
               },
               "first_seen": "2026-08-28T20:58:28.679Z"
             },
@@ -858,12 +1378,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An NFC research toolkit application for Android",
+                "homepage": null,
                 "id": 25397675,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2026-07-20T22:45:55Z",
+                "open_issues": 12,
                 "owner": "nfcgate",
                 "repo": "nfcgate",
-                "stars": 2338
+                "stars": 2338,
+                "topics": [
+                  "android",
+                  "android-nfc",
+                  "cloning",
+                  "hacktoberfest",
+                  "hce",
+                  "nfc",
+                  "relay",
+                  "replay",
+                  "security",
+                  "security-audit"
+                ]
               },
               "first_seen": "2026-08-28T20:58:28.679Z"
             },
@@ -874,12 +1410,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Command Line Google Play APK downloader. Download APK files to your PC directly from Google Play Store.",
+                "homepage": "https://gplaydl.com/",
                 "id": 138140103,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-01T11:49:18Z",
+                "open_issues": 3,
                 "owner": "rehmatworks",
                 "repo": "gplaydl",
-                "stars": 627
+                "stars": 627,
+                "topics": [
+                  "apk",
+                  "apkdownloader",
+                  "google-play",
+                  "python3"
+                ]
               },
               "first_seen": "2026-08-28T20:58:28.679Z"
             },
@@ -890,12 +1436,26 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Aircrack, Airodump, Aireplay, MDK3 and Reaver GUI Application for Android",
+                "homepage": null,
                 "id": 74716204,
                 "language": "Java",
+                "license": "GPL-3.0",
                 "last_commit": "2020-08-26T19:01:31Z",
+                "open_issues": 16,
                 "owner": "chrisk44",
                 "repo": "Hijacker",
-                "stars": 2544
+                "stars": 2545,
+                "topics": [
+                  "aircrack",
+                  "airodump-ng",
+                  "android",
+                  "crack",
+                  "monitor-mode",
+                  "reaver",
+                  "wireless",
+                  "wpa"
+                ]
               },
               "first_seen": "2026-08-28T20:58:28.679Z"
             },
@@ -906,12 +1466,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "No-root network monitor, firewall and PCAP dumper for Android",
+                "homepage": "https://emanuele-f.github.io/PCAPdroid",
                 "id": 232157758,
                 "language": "Java",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-26T20:37:14Z",
+                "open_issues": 45,
                 "owner": "emanuele-f",
                 "repo": "PCAPdroid",
-                "stars": 4618
+                "stars": 4619,
+                "topics": [
+                  "android",
+                  "capture-traffic",
+                  "decryption",
+                  "firewall",
+                  "network-analysis",
+                  "no-root",
+                  "pcap",
+                  "pcap-files",
+                  "sniffer",
+                  "sniffing",
+                  "traffic-monitor",
+                  "wireshark"
+                ]
               },
               "first_seen": "2026-08-28T20:58:28.679Z"
             },
@@ -922,12 +1500,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Google Play Downloader via Command line",
+                "homepage": null,
                 "id": 33446739,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2021-10-02T12:02:32Z",
+                "open_issues": 35,
                 "owner": "matlink",
                 "repo": "gplaycli",
-                "stars": 1135
+                "stars": 1135,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:58:28.679Z"
             },
@@ -938,12 +1521,23 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "A command line tool to download Android applications directly from the Google Play Store by specifying their package name (an initial one-time configuration is required)",
+                "homepage": null,
                 "id": 100208095,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-07-27T12:07:16Z",
+                "open_issues": 0,
                 "owner": "ClaudiuGeorgiu",
                 "repo": "PlaystoreDownloader",
-                "stars": 1193
+                "stars": 1193,
+                "topics": [
+                  "android",
+                  "apk",
+                  "downloader",
+                  "google",
+                  "playstore"
+                ]
               },
               "first_seen": "2026-08-28T20:58:28.679Z"
             },
@@ -954,12 +1548,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A handy systems and security-focused tool, Port Authority is a very fast Android port scanner. Port Authority also allows you to quickly discover hosts on your network and will display useful network information about your device and other hosts.",
+                "homepage": "https://play.google.com/store/apps/details?id=com.aaronjwood.portauthority.free",
                 "id": 27904264,
                 "language": "Java",
+                "license": "GPL-3.0",
                 "last_commit": "2023-09-06T13:13:39Z",
+                "open_issues": 40,
                 "owner": "aaronjwood",
                 "repo": "PortAuthority",
-                "stars": 423
+                "stars": 423,
+                "topics": [
+                  "android",
+                  "dns-lookup",
+                  "java",
+                  "network-discovery",
+                  "port-scanner",
+                  "security-scanner",
+                  "tcp",
+                  "wake-on-lan"
+                ]
               },
               "first_seen": "2026-08-28T20:58:28.679Z"
             }
@@ -973,15 +1581,31 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T20:58:28.679Z",
+    "last_updated": "2026-08-29T04:32:40.245Z",
     "original_repository_info": {
       "archived": false,
+      "description": "Mobile Hacker's Weapons / A collection of cool tools used by Mobile hackers. Happy hacking , Happy bug-hunting",
+      "homepage": null,
       "id": 329039148,
       "language": "Ruby",
+      "license": "MIT",
       "last_commit": "2026-03-01T01:58:42Z",
+      "open_issues": 3,
       "owner": "hahwul",
       "repo": "MobileHackersWeapons",
-      "stars": 1274
+      "stars": 1274,
+      "topics": [
+        "android",
+        "awesome-list",
+        "bugbounty",
+        "bugbountytips",
+        "hacking",
+        "ios",
+        "mobilehacks",
+        "scanner",
+        "security",
+        "tools"
+      ]
     },
     "original_repository_sha": "10da82baf9629e2acc14697898d5db0794bb08c5",
     "enhanced_repository": "enhansome/enhansome-MobileHackersWeapons",
