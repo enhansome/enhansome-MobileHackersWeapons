@@ -86,11 +86,11 @@
                 "id": 2293158,
                 "language": "Ruby",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-23T17:30:36Z",
+                "last_commit": "2026-11-24T12:21:15Z",
                 "open_issues": 607,
                 "owner": "rapid7",
                 "repo": "metasploit-framework",
-                "stars": 39650,
+                "stars": 39657,
                 "topics": [
                   "hacktoberfest"
                 ]
@@ -109,11 +109,11 @@
                 "id": 36817565,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-20T16:24:45Z",
-                "open_issues": 890,
+                "last_commit": "2026-11-24T13:36:20Z",
+                "open_issues": 892,
                 "owner": "zaproxy",
                 "repo": "zaproxy",
-                "stars": 16252,
+                "stars": 16263,
                 "topics": [
                   "appsec",
                   "dast",
@@ -141,10 +141,10 @@
                 "language": "Go",
                 "license": "MIT",
                 "last_commit": "2026-11-23T09:06:40Z",
-                "open_issues": 1,
+                "open_issues": 2,
                 "owner": "projectdiscovery",
                 "repo": "proxify",
-                "stars": 3086,
+                "stars": 3088,
                 "topics": [
                   "http-proxy",
                   "mitm",
@@ -170,7 +170,7 @@
                 "open_issues": 52,
                 "owner": "dstotijn",
                 "repo": "hetty",
-                "stars": 12554,
+                "stars": 12555,
                 "topics": [
                   "bugbounty",
                   "http",
@@ -198,7 +198,7 @@
                 "open_issues": 324,
                 "owner": "httptoolkit",
                 "repo": "httptoolkit",
-                "stars": 3678,
+                "stars": 3677,
                 "topics": [
                   "developer-tools",
                   "feedback",
@@ -244,7 +244,7 @@
                 "open_issues": 27,
                 "owner": "Nightbringer21",
                 "repo": "fridump",
-                "stars": 862,
+                "stars": 863,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:58:28.679Z"
@@ -261,11 +261,11 @@
                 "id": 9405122,
                 "language": "Meson",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-23T20:36:12Z",
+                "last_commit": "2026-11-23T22:34:21Z",
                 "open_issues": 1968,
                 "owner": "frida",
                 "repo": "frida",
-                "stars": 22917,
+                "stars": 22925,
                 "topics": [
                   "frida",
                   "instrumentation",
@@ -286,11 +286,11 @@
                 "id": 173228436,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-23T12:41:40Z",
-                "open_issues": 2239,
+                "last_commit": "2026-11-24T14:44:35Z",
+                "open_issues": 2238,
                 "owner": "NationalSecurityAgency",
                 "repo": "ghidra",
-                "stars": 101104,
+                "stars": 101208,
                 "topics": [
                   "disassembler",
                   "reverse-engineering",
@@ -368,7 +368,7 @@
                 "open_issues": 3,
                 "owner": "MobSF",
                 "repo": "Mobile-Security-Framework-MobSF",
-                "stars": 22309,
+                "stars": 22327,
                 "topics": [
                   "android-security",
                   "api-testing",
@@ -405,8 +405,8 @@
                 "id": 6930489,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2026-11-23T20:09:27Z",
-                "open_issues": 263,
+                "last_commit": "2026-11-24T19:21:04Z",
+                "open_issues": 260,
                 "owner": "meta",
                 "repo": "watchman",
                 "stars": 13773,
@@ -550,7 +550,7 @@
                 "open_issues": 58,
                 "owner": "sensepost",
                 "repo": "objection",
-                "stars": 9534,
+                "stars": 9535,
                 "topics": [
                   "android",
                   "framework",
@@ -622,7 +622,7 @@
                 "open_issues": 43,
                 "owner": "KJCracks",
                 "repo": "Clutch",
-                "stars": 3829,
+                "stars": 3832,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:58:28.679Z"
@@ -687,11 +687,11 @@
                 "id": 146060123,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-11-23T20:42:02Z",
-                "open_issues": 7,
+                "last_commit": "2026-11-24T12:36:54Z",
+                "open_issues": 14,
                 "owner": "blacktop",
                 "repo": "ipsw",
-                "stars": 3955,
+                "stars": 3958,
                 "topics": [
                   "apple",
                   "class-dump",
@@ -731,7 +731,7 @@
                 "open_issues": 203,
                 "owner": "meta",
                 "repo": "idb",
-                "stars": 5431,
+                "stars": 5433,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:58:28.679Z"
@@ -852,7 +852,7 @@
                 "open_issues": 29,
                 "owner": "dwisiswant0",
                 "repo": "apkleaks",
-                "stars": 6400,
+                "stars": 6401,
                 "topics": [
                   "android-security",
                   "apk",
@@ -943,7 +943,7 @@
                 "open_issues": 103,
                 "owner": "Konloch",
                 "repo": "bytecode-viewer",
-                "stars": 15729,
+                "stars": 15731,
                 "topics": [
                   "android",
                   "apk",
@@ -985,7 +985,7 @@
                 "open_issues": 78,
                 "owner": "iBotPeaches",
                 "repo": "Apktool",
-                "stars": 27352,
+                "stars": 27357,
                 "topics": [
                   "9patch",
                   "android",
@@ -1013,7 +1013,7 @@
                 "open_issues": 5,
                 "owner": "androguard",
                 "repo": "androguard",
-                "stars": 6457,
+                "stars": 6458,
                 "topics": [
                   "android",
                   "dalvik",
@@ -1041,7 +1041,7 @@
                 "open_issues": 378,
                 "owner": "pxb1988",
                 "repo": "dex2jar",
-                "stars": 13151,
+                "stars": 13152,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:58:28.679Z"
@@ -1058,11 +1058,11 @@
                 "id": 8859474,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-20T22:40:54Z",
-                "open_issues": 468,
+                "last_commit": "2026-11-23T23:51:13Z",
+                "open_issues": 467,
                 "owner": "skylot",
                 "repo": "jadx",
-                "stars": 51968,
+                "stars": 51983,
                 "topics": [
                   "android",
                   "decompiler",
@@ -1088,7 +1088,7 @@
                 "open_issues": 248,
                 "owner": "java-decompiler",
                 "repo": "jd-gui",
-                "stars": 15229,
+                "stars": 15230,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:58:28.679Z"
@@ -1109,7 +1109,7 @@
                 "open_issues": 77,
                 "owner": "bytedance",
                 "repo": "btrace",
-                "stars": 2558,
+                "stars": 2559,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:58:28.679Z"
@@ -1130,7 +1130,7 @@
                 "open_issues": 6,
                 "owner": "zinja-coder",
                 "repo": "jadx-ai-mcp",
-                "stars": 3030,
+                "stars": 3032,
                 "topics": [
                   "ai",
                   "java",
@@ -1306,10 +1306,10 @@
                 "language": "Java",
                 "license": "NOASSERTION",
                 "last_commit": "2026-11-05T09:38:22Z",
-                "open_issues": 663,
+                "open_issues": 662,
                 "owner": "termux",
                 "repo": "termux-app",
-                "stars": 65554,
+                "stars": 65620,
                 "topics": [
                   "android",
                   "hacktoberfest",
@@ -1332,11 +1332,11 @@
                 "id": 67702184,
                 "language": "Kotlin",
                 "license": "GPL-3.0",
-                "last_commit": "2026-11-21T06:31:51Z",
+                "last_commit": "2026-11-24T06:21:30Z",
                 "open_issues": 62,
                 "owner": "topjohnwu",
                 "repo": "Magisk",
-                "stars": 64250,
+                "stars": 64272,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:58:28.679Z"
@@ -1353,11 +1353,11 @@
                 "id": 111583593,
                 "language": "C",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-22T20:14:36Z",
-                "open_issues": 2959,
+                "last_commit": "2026-11-24T00:19:58Z",
+                "open_issues": 2964,
                 "owner": "Genymobile",
                 "repo": "scrcpy",
-                "stars": 155496,
+                "stars": 155580,
                 "topics": [
                   "android",
                   "c",
@@ -1420,7 +1420,7 @@
                 "open_issues": 3,
                 "owner": "rehmatworks",
                 "repo": "gplaydl",
-                "stars": 708,
+                "stars": 711,
                 "topics": [
                   "apk",
                   "apkdownloader",
@@ -1476,7 +1476,7 @@
                 "open_issues": 46,
                 "owner": "emanuele-f",
                 "repo": "PCAPdroid",
-                "stars": 5255,
+                "stars": 5270,
                 "topics": [
                   "android",
                   "capture-traffic",
@@ -1582,7 +1582,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-23T21:38:15.488Z",
+    "last_updated": "2026-11-24T20:18:29.327Z",
     "original_repository_info": {
       "archived": false,
       "description": "Mobile Hacker's Weapons / A collection of cool tools used by Mobile hackers. Happy hacking , Happy bug-hunting",
